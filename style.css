@@ -32,3 +32,8 @@ img{
     max-width: 500px;
 }
 
+.button{
+    height: 100px;
+    width: 200px;
+    text-decoration: none;
+}
